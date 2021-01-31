@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400');
+*
+
+
+
+body
+{
+    background: #000000 !important;
+    scroll-behavior: smooth;
+    margin: 0;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+
+section
+{
+    color: white;
+
+}
+
+
+.placeBox
+{
+    position: relative;
+    height: 400px;
+    margin:0 auto;
+    background: #000000;
+    margin-top:20px;
+    width: 400px;
+    
+}
+
+
+
+
+/*
+.contact label
+{
+    color:#ffffff;
+    font-size:1.25rem;
+
+
+*/
+
+  .header {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    background-color: #000000;
+    color: #f1f1f1;
+    
+  }
+  
+  .header h2 {
+      text-align: center !important;  
+      font-size: 2.5rem;
+      
+  }
+  
+  .progress-container {
+    width: 100%;
+    height: 8px;
+    /*background: #ccc;*/
+    background-color: #000000;
+    color: #777777;
+    align-items: flex-end;
+  }
+  
+  .progress-bar {
+    height: 10px;
+    /*background: #bcd3bd;*/
+    background: #777777;
+    width: 0%;
+    color: grey;
+  }
+  
+
+.content h3
+{
+    text-align: center;
+}
+
+
+/*
+ #mybar
+ {
+     position: relative;
+     top: 15px;
+     color: #777777;
+ }
+ */
+
+
+.content {
+    padding: 100px 0;
+    margin: 50px auto 0 auto;
+    width: 80%;
+    color:#f1f1f1;
+    
+  }
+
+
+
+  .contact form
+  {
+      position: relative;
+      z-index: 1000;
+      
+  }
+  
+  
+  
+  .contact .form-control
+  {
+      background:transparent;
+      border:none;
+      border-bottom: 2px solid rgba(255,255,255,.2);
+      height: 50px;
+      border-radius: 0;
+      background:rgba(0,0,0,6);
+      color:#ffffff;
+      font-size: 1.25rem;
+  }
+  
+  
+  
+
+.Message
+{
+    color: #ffffff;
+    font-size: 20px;
+}
+  
+  .contact .form-control:focus,
+  .contact .form-control:hover
+  {
+      border:none;
+      border-bottom: 2px solid rgba(255,255,255,1);
+      box-shadow: none;
+  }
+  
+  
+  .contact .textaread
+  {
+      height: 200px;
+  }
+  
+
+  footer
+  {
+      background:#000000;
+      background-size: cover;
+      padding:50px 0 0;
+  }
+
+
+  .sci
+  {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items:center;
+  }
+  
+  .sci li
+  {
+      list-style: none;
+      margin:0 20px;
+  }
+  
+  .sci li a
+  {
+      color: #777777;
+      font-size: 2em;
+      transition: 0.5s;
+  }
+  
+  .sci li a:hover
+  {
+      color:#ffffff;
+  }
+
+  .cpryt
+  {
+      margin-top: 20px;
+      text-align: center;
+      color: #777777;
+  }
+

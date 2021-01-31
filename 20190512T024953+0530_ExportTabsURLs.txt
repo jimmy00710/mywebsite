@@ -1,0 +1,276 @@
+Post Malone, Swae Lee - Sunflower (Lyrics) (Spider-Man: Into the Spider-Verse) - YouTube
+https://www.youtube.com/watch?v=RXWYDeGhe24
+
+calculating mathetaics answer deep learning - Google Search
+https://www.google.com/search?q=calculating+mathetaics+answer+deep+learning
+
+Bootstrap Responsive Website Design Start To Finish | Html5 CSS3 and Bootstrap 4 | Part 1/2 - YouTube
+https://www.youtube.com/watch?v=wik2jzunzA0
+
+Adding CSS styling to your website - PythonHow
+https://pythonhow.com/add-css-to-flask-website/
+
+python - Where does flask look for image files? - Stack Overflow
+https://stackoverflow.com/questions/28207761/where-does-flask-look-for-image-files
+
+Quickstart — Flask 1.0.2 documentation
+http://flask.pocoo.org/docs/1.0/quickstart/#static-files
+
+How to build a web application using Flask and deploy it to the cloud
+https://medium.freecodecamp.org/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492
+
+Quickstart — Flask 0.12.4 documentation
+http://flask.pocoo.org/docs/0.12/quickstart/#url-building
+
+html - how do I load image in python flask? - Stack Overflow
+https://stackoverflow.com/questions/48107708/how-do-i-load-image-in-python-flask
+
+Solved: How to delete multiples files in Github - GitHub Community Forum
+https://github.community/t5/How-to-use-Git-and-GitHub/How-to-delete-multiples-files-in-Github/td-p/4623
+
+css - Add Back Button in Navbar - Stack Overflow
+https://stackoverflow.com/questions/36433656/add-back-button-in-navbar
+
+Google Cloud Platform
+https://accounts.google.com/ServiceLogin/signinchooser?service=cloudconsole&passive=1209600&osid=1&continue=https%3A%2F%2Fconsole.cloud.google.com%2F%3Fpli%3D1%26ref%3Dhttps%3A%2F%2Faccounts.google.com%2FLogout%3Fservice%253Dcloudconsole%2526continue%253Dhttps%3A%2F%2Fconsole.cloud.google.com%2F%3Fpli%25253D1%2526hl%253Den_US&followup=https%3A%2F%2Fconsole.cloud.google.com%2F%3Fpli%3D1%26ref%3Dhttps%3A%2F%2Faccounts.google.com%2FLogout%3Fservice%253Dcloudconsole%2526continue%253Dhttps%3A%2F%2Fconsole.cloud.google.com%2F%3Fpli%25253D1%2526hl%253Den_US&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+My Portfolio
+http://127.0.0.1:5000/#home
+
+The Flask Mega-Tutorial Part V: User Logins - miguelgrinberg.com
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins
+
+input text from html in flask - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=input+text+from+html+in+flask&ie=utf-8&oe=utf-8
+
+flask get data from form - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=flask+get+data+from+form&ie=utf-8&oe=utf-8
+
+Python Programming Tutorials
+https://pythonprogramming.net/flask-get-post-requests-handling-tutorial/
+
+Creating a Flask app that serves HTML | Computational Journalism, Spring 2016
+http://www.compjour.org/lessons/flask-single-page/serving-simple-html-response/
+
+http://127.0.0.1:5000/?name=swaraj&email=swaraj&message=swaraj
+http://127.0.0.1:5000/?name=swaraj&email=swaraj&message=swaraj
+
+How to get data received in Flask request – Manivannan Murugavel – Medium
+https://medium.com/@manivannan_data/how-to-get-data-received-in-flask-request-8ebadc2bb5c6
+
+API — Flask 1.0.2 documentation
+http://flask.pocoo.org/docs/1.0/api/#flask.Request
+
+python - Send data from a textbox into Flask? - Stack Overflow
+https://stackoverflow.com/questions/12277933/send-data-from-a-textbox-into-flask
+
+python - How to serve static files in Flask - Stack Overflow
+https://stackoverflow.com/questions/20646822/how-to-serve-static-files-in-flask
+
+python - How to set background image on Flask Templates? - Stack Overflow
+https://stackoverflow.com/questions/39579666/how-to-set-background-image-on-flask-templates
+
+accepting text on hitting send button in flask - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=accepting+text+on+hitting+send+button+in+flask&ie=utf-8&oe=utf-8
+
+Quickstart — Flask 1.0.2 documentation
+http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application
+
+Using Python and Javascript together with Flask | JJ's World
+https://www.jitsejan.com/python-and-javascript-in-flask.html
+
+JavaScript HTML Input Examples
+https://www.w3schools.com/js/js_input_examples.asp
+
+Tryit Editor v3.6
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_form_submit
+
+Passing Data to HTML Page - Galaxy Data Technologies
+https://galaxydatatech.com/2018/03/31/passing-data-html-page/
+
+javascript for web designer - Google Search
+https://www.google.com/search?client=ubuntu&hs=Oa0&channel=fs&biw=1366&bih=657&tbm=vid&ei=FwPVXOzjLMe7rQG-jq6QCA&q=javascript+for+web+designer+&oq=javascript+for+web+designer+&gs_l=psy-ab.3..0i30k1.76472.84187.0.84519.17.10.1.0.0.0.247.968.0j5j1.6.0....0...1c.1.64.psy-ab..10.7.968...0j33i21k1j33i160k1j0i10k1.0.d2nwLxnjBHw
+
+Game of Thrones S8 - The Night King - Ramin Djawadi (Official Video) - YouTube
+https://www.youtube.com/watch?v=k1frgt0D_f4
+
+python - How to send data to Flask via AJAX? - Stack Overflow
+https://stackoverflow.com/questions/41323679/how-to-send-data-to-flask-via-ajax
+
+python - How to get data received in Flask request - Stack Overflow
+https://stackoverflow.com/questions/10434599/how-to-get-data-received-in-flask-request
+
+ajax tutorial - YouTube
+https://www.youtube.com/results?search_query=ajax+tutorial
+
+jquery - How to GET data in Flask from AJAX post - Stack Overflow
+https://stackoverflow.com/questions/37631388/how-to-get-data-in-flask-from-ajax-post
+
+jQuery Ajax POST unsuccessful - Stack Overflow
+https://stackoverflow.com/questions/3586780/jquery-ajax-post-unsuccessful
+
+Cross Domain Ajax Request with JSON response for IE,Firefox,Chrome, Safari - jQuery - Cypress North
+https://cypressnorth.com/programming/cross-domain-ajax-request-with-json-response-for-iefirefoxchrome-safari-jquery/
+
+can ajax request to local host - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=can+ajax+request+to+local+host&ie=utf-8&oe=utf-8
+
+Using Access-Control-Allow-Origin to make cross domain POST requests from javsacript - Chase Seibert Blog
+https://chase-seibert.github.io/blog/2012/01/27/using-access-control-allow-origin-to-make-cross-domain-post-requests-from-javsacript.html#
+
+jquery - How to GET data in Flask from AJAX post - Stack Overflow
+https://stackoverflow.com/questions/37631388/how-to-get-data-in-flask-from-ajax-post/37631988
+
+Quickstart — Flask 0.12.4 documentation
+http://flask.pocoo.org/docs/0.12/quickstart/
+
+Discover Flask, Part 1 – Setting Up a Static Site – Real Python
+https://realpython.com/introduction-to-flask-part-1-setting-up-a-static-site/
+
+javascript - Can a website make an HTTP request to "localhost"? How does it get around the cross-domain policy? - Information Security Stack Exchange
+https://security.stackexchange.com/questions/92008/can-a-website-make-an-http-request-to-localhost-how-does-it-get-around-the-cr
+
+how to connect ajax and flask - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=how+to+connect+ajax+and+flask&ie=utf-8&oe=utf-8#kpvalbx=0
+
+Quickstart — Flask 1.0.2 documentation
+http://flask.pocoo.org/docs/1.0/quickstart/#accessing-request-data
+
+multiline comment in python - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=multiline+comment+in+python&ie=utf-8&oe=utf-8
+
+http://127.0.0.1:5000/contact
+http://127.0.0.1:5000/contact
+
+ajax for webdesigning - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=ajax+for+webdesigning&ie=utf-8&oe=utf-8
+
+What is AJAX, How Does It Work, and What Is It Used For?
+https://skillcrush.com/2018/04/26/what-is-ajax/
+
+learn ajax step by step - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=learn+ajax+step+by+step&ie=utf-8&oe=utf-8
+
+ajax for web designing - Google Search
+https://www.google.com/search?q=ajax+for+web+designing&client=ubuntu&hs=Lf7&channel=fs&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjBo7mcopPiAhUBjuYKHfxWCM8Q_AUIDygC&biw=1855&bih=942
+
+An Introduction to AJAX for Front-End Designers
+https://webdesign.tutsplus.com/tutorials/an-introduction-to-ajax-for-front-end-designers--cms-25099
+
+how to send data from html page to server in json - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&biw=1855&bih=942&ei=p33WXM65GJjUz7sPjJKpgAI&q=how+to+send+data+from+html+page+to+server+in+json+&oq=how+to+send+data+from+html+page+to+server+in+json+&gs_l=psy-ab.3..33i160l2.7115.21504..21685...2.0..0.239.5640.1j42j2......0....1..gws-wiz.....0..0i71j0i131j0j0i67j0i22i30j33i21.Fvx38pVq8U4
+
+Set Up DNS For A Basic Website | Dyn Help Center
+https://help.dyn.com/setting-up-dns-for-your-new-website/
+
+host website on google - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=host+website+on+google&ie=utf-8&oe=utf-8
+
+AWS Free Tier
+https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23featured
+
+Cloud Object Storage | Store & Retrieve Data Anywhere | Amazon Simple Storage Service
+https://aws.amazon.com/s3/
+
+API Management  |  Apigee  |  Google Cloud
+https://cloud.google.com/apigee/
+
+Gmail
+https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+google oauth2 - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=google+oauth2&ie=utf-8&oe=utf-8
+
+how to make flask asynchronous - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=how+to+make+flask+asynchronous&ie=utf-8&oe=utf-8
+
+The Flask Mega-Tutorial Part XXII: Background Jobs - miguelgrinberg.com
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxii-background-jobs
+
+django - Why do I need Nginx and something like Gunicorn? - Server Fault
+https://serverfault.com/questions/331256/why-do-i-need-nginx-and-something-like-gunicorn?rq=1
+
+Advice for sync vs async workers with gunicorn(and in general) : Python
+https://www.reddit.com/r/Python/comments/2oaei0/advice_for_sync_vs_async_workers_with_gunicornand/
+
+Brief introduction about the types of worker in gunicorn and respective suitable scenario
+https://medium.com/@genchilu/brief-introduction-about-the-types-of-worker-in-gunicorn-and-respective-suitable-scenario-67b0c0e7bd62
+
+Celery Execution Pools: What is it all about? | Celery how-tos and tutorials
+https://www.distributedpython.com/2018/10/26/celery-execution-pool/
+
+gevent handle callback - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=gevent+handle+callback&ie=utf-8&oe=utf-8
+
+optimization - What do the terms "CPU bound" and "I/O bound" mean? - Stack Overflow
+https://stackoverflow.com/questions/868568/what-do-the-terms-cpu-bound-and-i-o-bound-mean
+
+Better performance by optimizing Gunicorn config – Building the system – Medium
+https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7
+
+Brief introduction about the types of worker in gunicorn and respective suitable scenario
+https://medium.com/@genchilu/brief-introduction-about-the-types-of-worker-in-gunicorn-and-respective-suitable-scenario-67b0c0e7bd62
+
+Asynchronous Tasks With Django and Celery – Real Python
+https://realpython.com/asynchronous-tasks-with-django-and-celery/
+
+Asynchronous Task in Flask Using Celery - YouTube
+https://www.youtube.com/watch?v=iwxzilyxTbQ
+
+JSON and AJAX Tutorial: With Real Examples - YouTube
+https://www.youtube.com/watch?v=rJesac0_Ftw
+
+HTML DOM Input Text value Property
+https://www.w3schools.com/jsref/prop_text_value.asp
+
+HTML Input Types
+https://www.w3schools.com/html/html_form_input_types.asp
+
+User Input and Output in JavaScript | UniversalClass
+https://www.universalclass.com/articles/computers/javascript/user-input-and-output-in-javascript.htm
+
+Sending POST data with AJAX in JavaScript - YouTube
+https://www.youtube.com/watch?v=PIKrh5ofQF0
+
+TVF Pitchers | S01E02 - 'And Then There Were Four' | E04-E05 now streaming on TVFPlay (App/Website) - YouTube
+https://www.youtube.com/watch?v=3PDSHk9EYvI&list=PLTB0eCoUXErbtRa6MYRnPCQMXT57TG2on&index=2
+
+Setting up Nginx, Gunicorn, Celery, Redis, Supervisor, and Postgres with Django to run your Python…
+https://medium.com/@dwernychukjosh/setting-up-nginx-gunicorn-celery-redis-supervisor-and-postgres-with-django-to-run-your-python-73c8a1c8c1ba
+
+AJAX Send an XMLHttpRequest To a Server
+https://www.w3schools.com/js/js_ajax_http_send.asp
+
+Better performance by optimizing Gunicorn config – Building the system – Medium
+https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7
+
+Asynchronous updates to a webpage with Flask and Socket.io | Shane Lynn
+https://www.shanelynn.ie/asynchronous-updates-to-a-webpage-with-flask-and-socket-io/
+
+Design Decisions in Flask — Flask 1.0.2 documentation
+http://flask.pocoo.org/docs/1.0/design/
+
+how to read user input in javascript - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=how+to+read+user+input+in+javascript&ie=utf-8&oe=utf-8
+
+Javascript - User input through HTML input tag to set a Javascript variable? - Stack Overflow
+https://stackoverflow.com/questions/15305527/javascript-user-input-through-html-input-tag-to-set-a-javascript-variable/54200868
+
+text is not disapperaing once the submit button is pressed - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=text+is+not+disapperaing+once+the+submit+button+is+pressed&ie=utf-8&oe=utf-8
+
+javascript - prevent refresh of page when button inside form clicked - Stack Overflow
+https://stackoverflow.com/questions/7803814/prevent-refresh-of-page-when-button-inside-form-clicked/7803843
+
+JavaScript Output
+https://www.w3schools.com/js/js_output.asp
+
+Google
+https://www.google.com/webhp
+
+Oops! Something Bad Happened - Stack Overflow
+https://stackoverflow.com/error?aspxerrorpath=/questions/31866796/making-an-asynchronous-task-in-flask
+
+JavaScript HTML Input Examples
+https://www.w3schools.com/js/js_input_examples.asp
+

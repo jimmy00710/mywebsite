@@ -1,0 +1,204 @@
+Gmail
+https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+UNET.zip - Google Drive
+https://drive.google.com/file/d/1C5zVnBu-tpMtTYjmoJsfid8PhXyTTT7l/view
+
+34.93.238.239:8000/processAI?imageUrl=DICOM/1/DICOM_01_anonymize_1.3.51.0.7.11244104195.21412.25158.45450.33615.21429.59389.dic
+https://34.93.238.239:8000/processAI?imageUrl=DICOM/1/DICOM_01_anonymize_1.3.51.0.7.11244104195.21412.25158.45450.33615.21429.59389.dic
+
+Discover - Kibana
+http://34.93.217.166:5601/app/kibana#/discover?_g=(refreshInterval:('$hashKey':'object:1415',display:'5%20seconds',pause:!f,section:1,value:5000),time:(from:now-15m,mode:quick,to:now))&_a=(columns:!(log),index:'logstash-*',interval:auto,query:(language:lucene,query:'kubernetes.container_name:cicd-dsapp'),sort:!('@timestamp',desc))
+
+dsapp_malaysia Config [Jenkins]
+http://jenkins.deeptek.ai/job/dsapp_malaysia/configure
+
+deeptek - Revision 2028: /CICD
+https://svn.deeptek.ai/repo/deeptek/CICD/
+
+Conda Environments with Docker - Chad Lagore - Medium
+https://medium.com/@chadlagore/conda-environments-with-docker-82cdc9d25754
+
+Compilation - GDCM Wiki
+http://gdcm.sourceforge.net/wiki/index.php/Compilation
+
+install gdcm in docker for python 3 - Google Search
+https://www.google.com/search?client=ubuntu&hs=kjH&channel=fs&ei=uVIcXd7MA7GLmgefr5PYBA&q=install+gdcm+in+docker+for+python+3&oq=install+gdcm+in+docker+for+python+3+&gs_l=psy-ab.3.1.33i22i29i30l3.2199.5539..5643...0.0..0.231.1099.0j6j1......0....1..gws-wiz.......33i160.hOmV3OXbioM
+
+python3-gdcm/Dockerfile at master · HealthplusAI/python3-gdcm · GitHub
+https://github.com/HealthplusAI/python3-gdcm/blob/master/Dockerfile
+
+apt-get install git - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=apt-get+install+git&ie=utf-8&oe=utf-8
+
+A local file was found, but it seems to be incomplete or outdated because the auto file hash does not match the original value of 30ee3e1110167f948a6b9946edeeb738 so we will re-download the data. - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=A+local+file+was+found%2C+but+it+seems+to+be+incomplete+or+outdated+because+the+auto+file+hash+does+not+match+the+original+value+of+30ee3e1110167f948a6b9946edeeb738+so+we+will+re-download+the+data.&ie=utf-8&oe=utf-8
+
+Swaraj/
+http://localhost:8888/tree/Swaraj
+
+Unet
+http://localhost:8888/notebooks/Swaraj/Unet.ipynb
+
+conv neural network - Loss function for semantic segmentation - Cross Validated
+https://stats.stackexchange.com/questions/260566/loss-function-for-semantic-segmentation
+
+Evaluating image segmentation models.
+https://www.jeremyjordan.me/evaluating-image-segmentation-models/
+
+An overview of semantic image segmentation.
+https://www.jeremyjordan.me/semantic-segmentation/#loss
+
+My Drive - Google Drive
+https://drive.google.com/drive/my-drive
+
+"hippocampus segmentation" unsupervised deep learning - Google Scholar
+https://scholar.google.co.in/scholar?hl=en&as_sdt=0,5&as_vis=1&qsp=5&q=%22hippocampus+segmentation%22+unsupervised+deep+learning&qst=b
+
+SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation - IEEE Journals & Magazine
+https://ieeexplore.ieee.org/abstract/document/7803544
+
+machine learning - Unsupervised image segmentation - Data Science Stack Exchange
+https://datascience.stackexchange.com/questions/30697/unsupervised-image-segmentation
+
+GitHub - beckgael/Mean-Shift-LSH: Scala/Spark implementation of Distributed Nearest Neighbours Mean Shift using LSH
+https://github.com/beckgael/Mean-Shift-LSH
+
+Variational autoencoders.
+https://www.jeremyjordan.me/variational-autoencoders/
+
+Evaluating A Real-Life Recommender System, Error-Based and Ranking-Based
+https://towardsdatascience.com/evaluating-a-real-life-recommender-system-error-based-and-ranking-based-84708e3285b
+
+news recommender system - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=news+recommender+system&ie=utf-8&oe=utf-8
+
+5 Weird Problems AI Could Soon Solve
+https://postfunnel.com/5-weird-problems-ai-could-soon-solve/
+
+Discover - Kibana
+http://34.93.217.166:5601/app/kibana#/discover?_g=(refreshInterval:('$hashKey':'object:1415',display:'5%20seconds',pause:!f,section:1,value:5000),time:(from:now-15m,mode:quick,to:now))&_a=(columns:!(log),index:'logstash-*',interval:auto,query:(language:lucene,query:'kubernetes.labels.app:dsapp'),sort:!('@timestamp',desc))
+
+malware classification using deep learning - Google Search
+https://www.google.com/search?client=ubuntu&hs=Kky&channel=fs&ei=N6IdXYbfEtGCyAOtwIrIAQ&q=malware+classification+using+deep+learning+&oq=malware+classification+using+deep+learning+&gs_l=psy-ab.3..0l2j0i22i30.153868.164140..164211...3.0..1.277.6304.2j41j5......0....1..gws-wiz.....0..0i71j0i67j0i131j0i10.tuAVIDPX4do
+
+Stanford University CS231n: Course Projects Spring 2017
+http://cs231n.stanford.edu/reports.html
+
+801.pdf
+http://cs231n.stanford.edu/reports/2017/pdfs/801.pdf
+
+426.pdf
+http://cs231n.stanford.edu/reports/2017/pdfs/426.pdf
+
+music classification using autoencoder - Google Search
+https://www.google.com/search?client=ubuntu&hs=q8y&channel=fs&ei=J6gdXdG2Moiv9QOttYC4Bw&q=music+classification+using+autoencoder&oq=music+classification+using+autoenc&gs_l=psy-ab.3.0.33i22i29i30.11747.19276..20409...0.0..0.272.5221.0j35j2......0....1..gws-wiz.....0..0i71j0j0i22i30j0i67j0i131j0i8i13i30.5YJH55uZPJo
+
+2748290.pdf
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2748290.pdf
+
+question answering system research - Google Search
+https://www.google.com/search?client=ubuntu&hs=yXe&channel=fs&ei=OqkdXbzIItm5rQG8m66gAw&q=question+answering+system+research+&oq=question+answering+system+research+&gs_l=psy-ab.3..0i22i30.18163.28828..28982...1.0..0.251.4974.0j33j3......0....1..gws-wiz.....0..0i71j0j0i67j0i131.0aDgvnffM0Q
+
+how inshorts rapid 60 works - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=how+inshorts+rapid+60+works&ie=utf-8&oe=utf-8
+
+Report on Text Classification using CNN, RNN & HAN - Jatana - Medium
+https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f
+
+cnn for sequence to sequence - Google Search
+https://www.google.com/search?client=ubuntu&hs=kXz&channel=fs&ei=L64dXYC_Dom2rQHVjZ2ACQ&q=cnn+for+sequence+to+sequence&oq=cnn+for+sequenct+to+&gs_l=psy-ab.3.0.0i22i30.1748.6533..7612...0.0..0.253.2763.0j19j1......0....1..gws-wiz.......0i71j0j0i13j0i13i30.f3Qvd-CPOn0
+
+pytorch lstm - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=pytorch+lstm&ie=utf-8&oe=utf-8
+
+Layer wrappers - Keras Documentation
+https://keras.io/layers/wrappers/
+
+Seq2Seq model using Convolutional Neural Network - Gautam Karmakar - Medium
+https://medium.com/@gautam.karmakar/summary-seq2seq-model-using-convolutional-neural-network-b1eb100fb4c4
+
+LSTM RNN anomaly detection and Machine Translation and CNN 1D convolution - Artificial Intelligence Research
+https://ai-mrkogao.github.io/reinforcement%20learning/LSTManomaly/
+
+Implementing Seq2Seq with Attention in Keras - James Betker - Medium
+https://medium.com/@jbetker/implementing-seq2seq-with-attention-in-keras-63565c8e498c
+
+How to Handle Very Long Sequences with Long Short-Term Memory Recurrent Neural Networks
+https://machinelearningmastery.com/handle-long-sequences-long-short-term-memory-recurrent-neural-networks/
+
+tutorial2.pdf
+http://robotics.stanford.edu/~quocle/tutorial2.pdf
+
+Pytorch LSTM not present inside Fastai - Deep Learning - Deep Learning Course Forums
+https://forums.fast.ai/t/pytorch-lstm-not-present-inside-fastai/38807/6
+
+Deploying a Seq2Seq Model with the Hybrid Frontend — PyTorch Tutorials 1.1.0 documentation
+https://pytorch.org/tutorials/beginner/deploy_seq2seq_hybrid_frontend_tutorial.html
+
+Deep Learning For Coders—36 hours of lessons for free
+http://course18.fast.ai/lessons/lesson11.html
+
+kaggle liver tumor segmentation - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=kaggle+liver+tumor+segmentation&ie=utf-8&oe=utf-8
+
+Named Entity Recognition with NLTK and SpaCy – Towards Data Science
+https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+
+named entity recognition for indian names - Google Search
+https://www.google.com/search?client=ubuntu&channel=fs&q=named+entity+recognition+for+indian+names&sa=X&ved=2ahUKEwjF-7rgqJvjAhWQ8XMBHUTYBQgQ1QIoAXoECAoQAg&biw=1855&bih=942
+
+GitHub - JiaxinYu/Liver-Tumor-Segmentation-Challenge
+https://github.com/JiaxinYu/Liver-Tumor-Segmentation-Challenge
+
+Voxel size | Radiology Reference Article | Radiopaedia.org
+https://radiopaedia.org/articles/voxel-size-1?lang=us
+
+Can anyone inform me on how to calculate the volume of the segmented region?
+https://www.researchgate.net/post/Can_anyone_inform_me_on_how_to_calculate_the_volume_of_the_segmented_region
+
+Spatial resolution MRI | Radiology Reference Article | Radiopaedia.org
+https://radiopaedia.org/articles/spatial-resolution-mri-1
+
+Liver tumor segmentation - swaraj.kasliwal@deeptek.ai - Deeptek Mail
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwChchRmLFmdwTwVTWfDnlxNDGh
+
+LiTS-Liver-Tumor-Segmentaton-Challenge/Visualization.ipynb at master · ChoiDM/LiTS-Liver-Tumor-Segmentaton-Challenge · GitHub
+https://github.com/ChoiDM/LiTS-Liver-Tumor-Segmentaton-Challenge/blob/master/Visualization.ipynb
+
+good_26.png (PNG Image, 1325 × 444 pixels)
+https://raw.githubusercontent.com/ChoiDM/LiTS-Liver-Tumor-Segmentaton-Challenge/master/result/good_26.png
+
+voxels to mm conversion? - BrainVISA
+http://brainvisa.info/forum/viewtopic.php?t=1572
+
+Automatic liver tumor segmentation in CT with fully convolutional neural networks and object-based postprocessing | Scientific Reports
+https://www.nature.com/articles/s41598-018-33860-7
+
+Inbox - swaraj.kasliwal@deeptek.ai - Deeptek Mail
+https://mail.google.com/mail/u/0/#inbox?projector=1
+
+Brain Tumor Segmentation from MRI Images - Google Slides
+https://docs.google.com/presentation/d/1i7cb-AlFEBvhbiwv4RO4xId4309h5fJ4fCfbvh4USko/edit#slide=id.p2
+
+Training Batch 1 - Google Drive
+https://drive.google.com/drive/folders/0B0vscETPGI1-eE53ZnA0MGhWZFE
+
+Desktop/
+http://localhost:8888/tree/Desktop
+
+Untitled
+http://localhost:8888/notebooks/Desktop/Untitled.ipynb?kernel_name=python3
+
+How to convert Nifti file to Numpy array? - Stack Overflow
+https://stackoverflow.com/questions/44422248/how-to-convert-nifti-file-to-numpy-array
+
+nibabel · PyPI
+https://pypi.org/project/nibabel/
+
+Download file | iLoveIMG
+https://www.iloveimg.com/download/285vxmAvg5y0p3ndgzAd1xqzxq765pfmk9tv0d4q3k72tpwyly8k5tr2kjf26m5w3wshfd3jthz9hd1xfgvwrwwh2xs2ty6668h52w4r24p2dbn769xAp4vvks6d6czp9s699mllw6p1cs2fb84z7tswc9y9vbzxz15bpryk0vrm3123zsAq/3
+
+Choosing Colormaps — Matplotlib 2.0.2 documentation
+https://matplotlib.org/users/colormaps.html
+
