@@ -1,0 +1,385 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.container
+{
+    border: 0;
+    margin: 0;
+    display: flex;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+
+.nav-vertical
+{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 12.4375rem;
+    height: 100%;
+    border: 0;
+    margin: 0;
+    border-right: 0.0625rem solid rgba(0, 0, 0, 0.05);
+    background: white;
+    align-items: center;
+    overflow: hidden;
+
+}
+
+.nav-vertical ul
+{
+    /* display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    list-style: none; */
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.25rem 2.5rem;
+}
+
+.nav-vertical ul li 
+{
+    position: relative;
+    width: 100%;
+    list-style: none;
+    transition: width 0.5s;
+}
+
+.nav-vertical ul li  a
+{
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0.625rem 0;
+    white-space: normal;
+    display: flex;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    letter-spacing: 0.125rem;
+    opacity: 0.5;
+}
+
+.nav-vertical ul li a:hover
+{
+    opacity: 1;
+}
+
+.nav-vertical.active
+{
+    width: 0rem;
+}
+#socialIcons
+{
+    bottom: 1.25rem;
+    display: flex;
+    margin: 0 auto;   
+}    
+
+#socialIcons ul li 
+{
+    padding: 1.25rem 2.5rem;
+}
+
+
+.main
+{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* left: 10.65%; */
+    left:12.4375rem; 
+    width: calc(100% - 12.4375rem);
+    min-height: 100vh;
+    transition: width 0.5s, left 0.5s;
+}
+
+.main.active
+{
+    width: calc(100% - 0rem);
+    left: 0rem;
+}
+
+
+.main .topbar
+{
+    left: 12.5rem;
+    position: fixed;
+    top: 0rem;
+    width: calc(100% - 12.5rem);
+    background: white;
+    border-bottom: 0.0625rem solid rgba(0, 0, 0, 0.05);
+    height: 3.75rem;
+    padding: 0 2.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10000;
+    transition: width 0.5s, left 0.5s;
+}
+
+.main .topbar.active
+{
+    width: calc(100% - 0rem);
+    left: 0rem;
+}
+
+.main .topbar .logo
+{
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.0625rem;
+}
+
+
+.main .topbar .toggle
+{
+    position: relative;
+    width: 3.75rem;
+    height: 3.75rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    color: black;
+}
+
+section
+{
+    position: relative;
+    top:3.75rem ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    min-height: 100vh;
+}
+
+.baner
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0, 1.25rem;
+    overflow: auto;
+}
+
+.baner .inputTxt
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+input
+{
+    position: relative;
+    display: inline-block;
+    font-size: 28px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+input[type="text"]
+{
+    background: white;
+    width: 31.25rem;
+    height: 3.125rem;
+    outline: none;
+    padding: 0 1.5625rem;
+    border-radius: 1.5625rem 0 0 1.5625rem;
+}
+
+input[type="submit"]
+{
+    position: relative;
+    left: -5px;
+    border-radius: 0 25px 25px 0;
+    width: 150px;
+    height: 50px;
+    outline: none;
+    cursor: pointer;
+    background-color: #ffc107;
+    color: #fff;
+}
+
+.options
+{
+    display: flex;
+    flex-direction: column;
+    padding-top: 3.125rem;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 12.4375rem;
+}
+
+.options .card
+{
+    display: flex;
+    flex-wrap: wrap;
+    background: white;
+    position: relative;
+    /* left: 20px; */
+    /* width: 650px; */
+    width: 40rem;
+    outline: none;
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    border: 0.0625rem solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0.3125rem 0.9375rem rgba(0, 0, 0, 0.5);
+    /* height: 130px; */
+    /* height: 15.75rem; */
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    overflow: auto;
+    /* left: 2.5rem; */
+}
+
+.content-format 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 1.25rem;
+    /* overflow: auto; */
+    /* margin: auto; */
+    /* width: 64.875rem; */
+    width: 60rem;
+    top: -7rem;
+
+}
+
+.title
+{
+    display: flex;
+    position: relative;
+    /* top: -5rem; */
+    top: 4rem;
+    text-align: center;
+    /* margin-bottom: -35rem; */
+    /* margin-bottom: 3rem; */
+
+}
+
+.title h2
+{
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 0.125rem;
+    font-size: 1.2em;
+    margin-bottom: 1.875rem;
+}
+
+.content 
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+    line-height: 2rem;
+}
+
+.content-format .content  .textBox
+{
+    /* width: 60%; */
+    width: 60rem;
+    min-width: 49rem;
+    left: 12.5rem;
+}
+/* .title h2::before
+{
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10px;
+    width: 50px;
+    height: 1px;
+    background: black;
+} */
+/* .content-format
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 31.25rem;
+    padding: 0 1.5625rem;
+}
+
+.title
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% - 12.4375);
+    text-align: center;
+    left: 12.4375rem;
+}
+
+.title h2
+{
+    display: flex;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 0.125rem;
+    font-size: 1.2em;
+    margin-bottom: 1.875rem;   
+}
+
+.title h2::before
+{
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10px;
+    width: 50px;
+    height: 1px;
+    background: black;
+}
+
+
+.content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+
+
+
+
+
+
+
+
+/* .content{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    left: 250px;
+    font-family: "Magnetic Pro","HeiTi SC Light","Microsoft YaHei",sans-serif;
+    width: 50%;
+    margin: auto;
+    /* font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; */
